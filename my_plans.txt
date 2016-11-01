@@ -1,0 +1,4 @@
+
+    learn to use the terminal
+    learn git
+    add anything else you would like to achieve?
